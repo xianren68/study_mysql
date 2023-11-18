@@ -22,5 +22,5 @@ source 系统中的绝对路径
 ![avatar](../source/img/source.png)
 
 导入的sql
-![atguigudb](../source/atguigudb.sql)
+[sql](../source/atguigudb.sql)
 
